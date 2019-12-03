@@ -391,10 +391,13 @@ Provider store 로 전달했습니다.
 ![redux01](./imgs/redux01.png)
 
 1 증가 버튼 클릭시 
+
 ![redux01](./imgs/redux02.png)
 
 -10 감소 버튼 클릭시 
+
 ![redux01](./imgs/redux03.png)
+
 
 # 결론
 
